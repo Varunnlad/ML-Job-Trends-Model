@@ -28,6 +28,7 @@ Provides an intuitive visual representation of job market trends.
 
 
 🛠️ Tech Stack:
+
 Flask (Backend API & Routing)
 
 Python (fetch_skills.py, fetch_trends.py)
