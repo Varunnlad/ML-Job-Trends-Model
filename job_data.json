@@ -1,0 +1,1519 @@
+{
+    "count": 243581,
+    "results": [
+        {
+            "created": "2025-01-28T04:56:42Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.5062,
+            "redirect_url": "https://www.adzuna.in/details/5026140603?utm_medium=api&utm_source=358f861a",
+            "id": "5026140603",
+            "longitude": 73.84735,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAyNjE0MDYwMyIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.wUBdOkyIRxO7pFOvRBHn-i7nxRFvrfAFZubs_HIaRxM",
+            "title": "Purchase Manager",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "company": {
+                "display_name": "Applus IDIADA",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Description The job covers and includes: Controlling a small procurement and working closelywith technical departments. Developing suppliers in the field of automotive engineering, IT and general suppliers. Identifying key risks in the procurement function and devising risk mitigants. Desirable qualities- Non-Technical Analytical, dynamic, hard-working and focussed with ability to co-ordinate with different departments operating in a decentralized environment but with centralized control on\u2026"
+        },
+        {
+            "created": "2025-02-08T05:14:55Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.5062,
+            "redirect_url": "https://www.adzuna.in/details/5042020431?utm_medium=api&utm_source=358f861a",
+            "id": "5042020431",
+            "longitude": 73.84735,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTA0MjAyMDQzMSIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.Ps6hsfJYFXeRaxiIOohLL7Hmx8t6v3gzxJmnBB4yJfs",
+            "title": "Retainer Dance Level Designer (Dance enthusiasts) (6 months contract)",
+            "category": {
+                "label": "Customer Services Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "customer-services-jobs"
+            },
+            "salary_is_predicted": "0",
+            "description": "Job Description Job Summary:- Retainer Dance Level Designer should have high judgmental skills and good dancing skills. Should be able to test the game with different energy levels and type of dancing to make sure the scoring feedback is fair as well as perform the exact dance moves to give captures when needed. Excellent communication skills will be important. Job Responsibilities:- Be responsible for assigned maps\u2019 delivery with quality in the assigned time. Tweaking and testing the song with\u2026",
+            "location": {
+                "display_name": "Pune, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ]
+            },
+            "company": {
+                "display_name": "Ubisoft",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "created": "2024-12-11T18:00:25Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.54395,
+            "redirect_url": "https://www.adzuna.in/details/4971831232?utm_medium=api&utm_source=358f861a",
+            "id": "4971831232",
+            "longitude": 73.83065,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk3MTgzMTIzMiIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.hPRuLGPReGlBh7ipQQozoSSftUcYLUo7pC7m8am0rBM",
+            "title": "Contract Manager",
+            "contract_type": "contract",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Legal Jobs",
+                "tag": "legal-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Warje, Pune",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune",
+                    "Warje"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "The Manager, Contracts is a member of the Legal Team, responsible for leading the team of contracting professionals who are diligent, proactive, and work cross-functionally with all areas of the company in a collaborative, collegial, fast-paced, global team environment. These teams help accelerate Onit\u2019s success by providing practical, creative, thoughtful, and quick answers to key contractual questions. The Manager will draft, negotiate, and manage a wide variety of agreements, including comme\u2026",
+            "company": {
+                "display_name": "Onit",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "title": "Sr. Executive - HR Analyst - Mumbai -Goregaon",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDc5OTc1MjE5OCIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.9aURT_l_qC6QfsdWbNsQHDOhbBoQCFHqXv_xQer1SX4",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "POSITION RESPONSIBILITIES / REQUIREMENTS: Job Responsibilities: Collate data related to the key projects and activities within the Performance and Rewards function at one place. Ensure the data is clean and consistent for the purpose of further analysis. Maintain and update all the trackers related to key activities on a timely basis. Identify trends and patterns to provide insights and recommendations to improve HR processes. Develop and maintain Metrics, Reports and Dashboards to track perfor\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rentokil Initial"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2024-07-29T21:51:53Z",
+            "id": "4799752198",
+            "redirect_url": "https://www.adzuna.in/details/4799752198?utm_medium=api&utm_source=358f861a"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDM2Mzc5NzY4In0.ILmi9GEoPuEHYRGJfo9t7ClkicB8A_1ZPc21asgyaLI",
+            "title": "Front Office Executive",
+            "category": {
+                "tag": "hospitality-catering-jobs",
+                "label": "Hospitality & Catering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "FAIRMONT"
+            },
+            "location": {
+                "display_name": "Mumbai, Maharashtra",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ]
+            },
+            "description": "Job Description Position Overview: We are seeking a dynamic and customer-focused Front Office Executive to join our team at Fairmont Mumbai. As the first point of contact for our guests, the Front Office Executive plays a crucial role in ensuring exceptional service from arrival to departure. Key Responsibilities: Guest Relations: Greet guests warmly upon arrival, assist with check-in/check-out procedures, and provide personalized assistance throughout their stay to ensure a memorable experienc\u2026",
+            "created": "2025-02-04T17:07:21Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 19.00821,
+            "redirect_url": "https://www.adzuna.in/details/5036379768?utm_medium=api&utm_source=358f861a",
+            "id": "5036379768",
+            "longitude": 72.84415
+        },
+        {
+            "id": "5011527651",
+            "redirect_url": "https://www.adzuna.in/details/5011527651?utm_medium=api&utm_source=358f861a",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-01-15T20:21:45Z",
+            "description": "Position: Patient Care Coordinator - Delhi Position Purpose The purpose of this role is to co-ordinate patient applications in Patient Access Program(s) in the region. The jobholder is required to help represent Axios in daily meetings with patients, doctors and carry out administrative duties which will be both field and office based Duties and Responsibilities Liaise with hospitals, distributors, pharmacies and patients Co-payment reimburse solution administration Work closely with the Progra\u2026",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Axios International Consultants Ltd"
+            },
+            "category": {
+                "tag": "admin-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Admin Jobs"
+            },
+            "salary_is_predicted": "0",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAxMTUyNzY1MSIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.eZAOG__o7BIo0K0xwlhT2U7u-4rP2DQtEzZwAxEctvY",
+            "title": "Patient Care Coordinator - Delhi (India)",
+            "contract_time": "full_time"
+        },
+        {
+            "title": "Asst Manager - Equipment Division",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDU3Mzg0MDY2MiIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.ITvBvDQeBKzlmV6FMbmPz-VwblHYYzYpteUQPu0QF3Y",
+            "contract_time": "full_time",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "engineering-jobs",
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Rentokil Initial"
+            },
+            "description": "About the Role: As an Asst Manager in the Equipment division, he should provide all possible support to the Branches to enable them to use All Service Equipment effectively. Innovation of new equipment & tools in services which will help technicians to ease the work and increase productivity. Keeping data of all the equipment & tools at branches and helping to scrap the non-working equipment from branches. Also provide help to all other divisions like NSD, Purchase Dept., so that branches will \u2026",
+            "created": "2024-02-18T20:49:13Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/4573840662?utm_medium=api&utm_source=358f861a",
+            "id": "4573840662"
+        },
+        {
+            "company": {
+                "display_name": "Excellence and Eminence LLP",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "hr-jobs",
+                "label": "HR & Recruitment Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDIxMDU5ODczIn0.gJYEsbG_2e4zZGPn9HShenZ_38wxGbdRj_bXkUfTzu8",
+            "title": "Executive Assistant cum HR",
+            "longitude": 77.58085,
+            "redirect_url": "https://www.adzuna.in/details/5021059873?utm_medium=api&utm_source=358f861a",
+            "latitude": 13.1185,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-01-23T21:00:07Z",
+            "description": "Summary: We are seeking a dynamic and organized Executive Assistant cum HR to join our team at our office in Yelahanka, Bangalore. The ideal candidate will possess an MBA and will support the Managing Director while managing HR functions. This role combines the duties of an executive assistant with HR responsibilities, requiring excellent organizational, interpersonal, and administrative skills. Key Skills: Administrative Excellence: Proficient in managing executive schedules, travel arrangemen\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore",
+                    "Yelahanka"
+                ],
+                "display_name": "Yelahanka, Bangalore"
+            },
+            "salary_min": 0,
+            "id": "5021059873",
+            "salary_max": 800000
+        },
+        {
+            "salary_max": 1300000,
+            "id": "5011022513",
+            "salary_min": 18000,
+            "description": "Work from Home opportunity is here Hiring Hiring Hiring Here is the vacancy for work from home jobs. Work / Responsibilities: HR Associate / HR Recruiter / HR Assistant / Team Leader/ Customer Relationship Manager Job opening profile: 1\u2013Work from home - HR Ricruter 2\u2013Work from office - Customer support and Document verification Requirements Only fresher can apply Age limit 18 to 29 years Qualification Minimum 12th & Above Apply now Only Interested Candidates can WhatsApp their CV 91 88009 18541",
+            "location": {
+                "area": [
+                    "India",
+                    "Delhi",
+                    "New Delhi",
+                    "Sansad Marg"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Sansad Marg, New Delhi"
+            },
+            "created": "2025-01-15T13:09:06Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 28.62623,
+            "redirect_url": "https://www.adzuna.in/details/5011022513?utm_medium=api&utm_source=358f861a",
+            "longitude": 77.21808,
+            "title": "Customer care ( Wfh",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDExMDIyNTEzIn0.6XvB1bUQnVhZYpVw4yacWPeacnEoQTkITb74f9US4eg",
+            "contract_type": "permanent",
+            "category": {
+                "label": "HR & Recruitment Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "hr-jobs"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "CHIRODZI SUSTAINABLE",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "created": "2025-01-04T13:43:25Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/4997547217?utm_medium=api&utm_source=358f861a",
+            "id": "4997547217",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI0OTk3NTQ3MjE3In0.mwP-pbHuUO-Gl1I6fy77TdmAJtYzlw_2Y3tDgOpjepQ",
+            "title": "30152741176 - Senior Meta Buyer",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "PR, Advertising & Marketing Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "company": {
+                "display_name": "Activate Talent",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "The Meta Buyer is responsible for managing and optimizing paid advertising campaigns on Meta platforms (Facebook/Instagram) to drive growth for DTC Shopify brands. This role involves data-driven decision-making, campaign execution, and collaboration with teams using tools like Notion, TripleWhale, and Slack. Proficiency in project management, Shopify, and social media advertising tools is essential, with a focus on delivering measurable results. Key Responsibilities: Plan, launch, and optimize \u2026"
+        },
+        {
+            "longitude": 70.82925,
+            "redirect_url": "https://www.adzuna.in/details/5021059848?utm_medium=api&utm_source=358f861a",
+            "latitude": 22.32795,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-01-23T21:00:07Z",
+            "company": {
+                "display_name": "InnovatexIQ Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_type": "permanent",
+            "title": "Python Developers Internship [ Remote 03]",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAyMTA1OTg0OCIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.CnrlRA_NSGd_d55PU6OraJF-1lq4gECkCDeNEhkI0-M",
+            "id": "5021059848",
+            "salary_max": 150000,
+            "location": {
+                "display_name": "Sardhar, Rajkot",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Gujarat",
+                    "Rajkot",
+                    "Sardhar"
+                ]
+            },
+            "description": "Job Title : Python Developer Trainee Location : Work from Anywhere (India) About Us : We are a forward-thinking company focused on innovative technology solutions. We are expanding our team and looking for passionate, motivated individuals to start their careers as Python Developers. If you have a love for coding, problem-solving, and building scalable solutions, this is the perfect opportunity for you Job Overview : We are looking for talented Python Developer Trainees to join our growing deve\u2026",
+            "salary_min": 150000
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "SAP Fioneer"
+            },
+            "description": "Innovation is and will always be the core of SAP Fioneer, and it is the promise of why we were spun out of SAP: agility, innovation, and delivery. SAP Fioneer builds on a heritage of outstanding technology and a deep understanding of corporate and consumer demands. At the heart of it all it is simple: We bring financial services to the next level with innovative software solutions and platforms. We are helping companies in the financial services industry to achieve speed, scalability, and cost-\u2026",
+            "title": "Loans Management (FS-CML) Senior Developer-Bangalore, India",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk4MzA4NzEyMiIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.Yf7q01aBOpsZHqWH4r285-qYQWNBawPSmJQAsaY0L8Q",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/4983087122?utm_medium=api&utm_source=358f861a",
+            "id": "4983087122",
+            "created": "2024-12-19T12:56:30Z",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "title": "Housekeeping Executive",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDE2MjYwNzY4In0.iEFrkz0vo2H24m7pz1aJ0ixdqOqIbHGeHMkDbakxGgk",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "FAIRMONT"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Rajasthan",
+                    "Udaipur"
+                ],
+                "display_name": "Udaipur, Rajasthan"
+            },
+            "description": "Job Description Primary Responsibilities Conduct daily briefings with staff at floor level. Manage and supervise all tasks of his/her team. Ensure cleanliness of guest rooms, guest room balconies, guest corridors, linen rooms and housekeeping pantries according to standards and procedures set. Supervise public areas. Replenish guest supplies and ensure that guests requests are promptly attended to. Attend to reports on damage or malfunction in hotel rooms. Maintain equipment in proper state of \u2026",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Hospitality & Catering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "hospitality-catering-jobs"
+            },
+            "latitude": 24.462262,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-01-19T06:05:40Z",
+            "longitude": 73.697442,
+            "id": "5016260768",
+            "redirect_url": "https://www.adzuna.in/details/5016260768?utm_medium=api&utm_source=358f861a"
+        },
+        {
+            "created": "2025-01-23T00:59:20Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 12.96853,
+            "redirect_url": "https://www.adzuna.in/details/5020125792?utm_medium=api&utm_source=358f861a",
+            "longitude": 80.24305,
+            "title": "Hardware Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDIwMTI1NzkyIn0.Msull6CsQGPbML-cubbofT6ttuI68CogFpK4QoaDoHc",
+            "contract_type": "permanent",
+            "category": {
+                "tag": "it-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "MEL Systems and Services Ltd",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_max": 100000,
+            "id": "5020125792",
+            "salary_min": 100000,
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai",
+                    "Injambakkam"
+                ],
+                "display_name": "Injambakkam, Chennai"
+            },
+            "description": "Nature of Experience: 1. Integrating Hardware Data Acquisition systems like NI, Adlink, IO Link, PLC, Etc. 2. Experience in Designing hardware interfaces for simulators. Ex: Enclosures, Desks, Hardware Panels. 3. Experience on Simulator Development will be a big plus. Company Details: https://www.melss.com Location: Perungudi, Chennai- 600096. Requirements Job Title: Hardware Engineer Work Experience: 3 \u2013 5 Years Age Group: 25-30 Years Qualification : Dip/BE/B.Tech - ECE /Mechatronics Competenc\u2026"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5016279672?utm_medium=api&utm_source=358f861a",
+            "longitude": 78.69665,
+            "created": "2025-01-19T06:53:36Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 10.80595,
+            "category": {
+                "tag": "sales-jobs",
+                "label": "Sales Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Sisco Jobs"
+            },
+            "title": "Telecaller",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAxNjI3OTY3MiIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.W61_IjRb88NvPRI_B2uS6UyVyIDLRjGHpnqYwKXz7cA",
+            "contract_type": "permanent",
+            "id": "5016279672",
+            "salary_max": 12000,
+            "salary_min": 10000,
+            "location": {
+                "display_name": "Srirangam, Tiruchirappalli",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Tiruchirappalli",
+                    "Srirangam"
+                ]
+            },
+            "description": "Job Title: Telecaller Experience: 1 to 3 Years Salary: \u20b910,000 - \u20b912,000 Qualification: Any Degree Location: Trichy Job Summary: We are seeking an energetic and motivated Telecaller to join our team. The ideal candidate will be responsible for making outbound calls to clients and potential candidates, maintaining excellent communication, and ensuring customer satisfaction while meeting set targets. Key Responsibilities: Make outbound calls to potential clients and candidates to promote recruitm\u2026"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5026160030?utm_medium=api&utm_source=358f861a",
+            "id": "5026160030",
+            "created": "2025-01-28T05:43:00Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lifelancer"
+            },
+            "description": "Job Title: Clinical Data Svs Specialist Job Location: Bengaluru, Karnataka, India Job Location Type: On-site Job Contract Type: Full-time Job Seniority Level: Mid-Senior level Skill required: Clinical Data Services - Clinical Data Management Designation: Clinical Data Svs Specialist Qualifications: Bachelor of Pharmacy Years of Experience: 7 to 11 years About Accenture Accenture is a global professional services company with leading capabilities in digital, cloud and security.Combining unmatche\u2026",
+            "title": "Clinical Data Svs Specialist",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDI2MTYwMDMwIn0.ViPPl1t1P_8WsqP6U8RencX1I_f2Uy8j_E_kUT6vy4o"
+        },
+        {
+            "latitude": 19.11645,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2023-11-23T13:20:55Z",
+            "longitude": 72.87,
+            "id": "4448664038",
+            "redirect_url": "https://www.adzuna.in/details/4448664038?utm_medium=api&utm_source=358f861a",
+            "title": "Senior Jewellery Designer",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDQ0ODY2NDAzOCIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.eKxLUvNaDsCSQTdF7QlKCgSxB8uvsP_8JLJOrbxb9l4",
+            "description": "Senior Jewellery Designer No. of Positions - 1 Function \u2013 Design Reason for Hire \u2013 New Payroll Type - Fixed Work experience \u2013 Minimum 10 years Company Overview We are a luxury jewellery global powerhouse, with over 120 years of legacy and 3 design studios catering to retailers globally, along with building human-centric brands Her Story and Unsaid for consumers. Our aim is to make jewellery more relevant to the evolving new customer, with superior craftsmanship and stories told in design. We do\u2026",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai",
+                    "Chakala Midc"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chakala Midc, Mumbai"
+            },
+            "company": {
+                "display_name": "Walking Tree",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "creative-design-jobs",
+                "label": "Creative & Design Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "id": "5013058746",
+            "redirect_url": "https://www.adzuna.in/details/5013058746?utm_medium=api&utm_source=358f861a",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-01-16T18:06:08Z",
+            "salary_max": 600000,
+            "salary_min": 4800,
+            "company": {
+                "display_name": "Kingsmen Agency",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "description": "Job Description: Product Manager (Laravel & Next.js) Position Overview: We are seeking an experienced and passionate Product Manager with a strong background in web application frameworks like Laravel and front-end technologies such as Next.js. The ideal candidate will have a proven track record of managing software products through their entire lifecycle, from ideation to deployment, while collaborating with cross-functional teams to deliver innovative solutions. Key Responsibilities: Product \u2026",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "title": "Product Manager (Laravel & Next.js)",
+            "contract_time": "part_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAxMzA1ODc0NiIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.L_lxJ8_NcaeKiY6qDi23iQlnYGNrdM9KTYq_HtSTE2k"
+        },
+        {
+            "id": "3889852948",
+            "redirect_url": "https://www.adzuna.in/details/3889852948?utm_medium=api&utm_source=358f861a",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2023-02-01T01:01:28Z",
+            "description": "Title : Oracle Customer Cloud Service Type : Contract to Hire Location : 100%Remote Salary: INR : Open Requirements Skills Requirements: \u2022 Strong CC&B and CCS Functional and Technical expertise. \u2022 5 years extensive hands-on experience developing customizations for Oracle Utilities Customer Care and Billing (CC&B) 2.6 application (2.7 a plus) \u2022 Extensive knowledge & experience on CC&B Java \u2022 Experience working on UI Maps, BPA scripts, plug-ins, service scripts, BOs, service tasks etc. \u2022 Good kno\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "company": {
+                "display_name": "Two95 International Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "title": "Oracle Customer Cloud Service",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzg4OTg1Mjk0OCIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.1np0hChxg_ixbbulQS-K0m92udqt3m_YuZUNQIOyQTw",
+            "contract_time": "full_time"
+        },
+        {
+            "created": "2025-02-01T03:23:04Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5031811231?utm_medium=api&utm_source=358f861a",
+            "id": "5031811231",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDMxODExMjMxIn0.zrrTtWeNCNsHoUIMJwiwx0h01ksS7zPwY-PSjh_8IaY",
+            "title": "Graphic Designer",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Creative & Design Jobs",
+                "tag": "creative-design-jobs"
+            },
+            "salary_is_predicted": "0",
+            "description": "We are looking for a Graphic Designer to create engaging and on-brand graphics for a variety of media. What is the role of a Graphic Designer? The Graphic Designer job description includes the entire process of defining requirements, visualizing and creating graphics including illustrations, logos, layouts and photos. You\u2019ll be the one to shape the visual aspects of websites, books, magazines, product packaging, exhibitions and more. Your graphics should capture the attention of those who see t\u2026",
+            "location": {
+                "display_name": "India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ]
+            },
+            "company": {
+                "display_name": "inobal",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "created": "2025-02-02T06:21:56Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5033715149?utm_medium=api&utm_source=358f861a",
+            "id": "5033715149",
+            "title": "Investment Analyst - GE",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAzMzcxNTE0OSIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.j7X3j_OwDryFrVlpw-YoAKPmL_kNZWiR16w8Ytxzkps",
+            "contract_time": "full_time",
+            "contract_type": "contract",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "company": {
+                "display_name": "international finance corporation",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "international finance corporation IFC a member of the World Bank Group is the largest global development institution focused on the private sector in emerging markets. We work in more than 100 countries, using our capital, expertise, and influence to create markets and opportunities. Our mission is to leverage the power of the private sector to end extreme poverty and boost shared prosperity on a livable planet. The Infrastructure & Natural Resources Department is recruiting an Investment Analy\u2026"
+        },
+        {
+            "latitude": 18.5062,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-01-31T11:00:44Z",
+            "longitude": 73.84735,
+            "id": "5030582673",
+            "redirect_url": "https://www.adzuna.in/details/5030582673?utm_medium=api&utm_source=358f861a",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAzMDU4MjY3MyIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.qJnp_0zgh73WoHSPaXr3marXIioavgWhOmzu_o28x-A",
+            "title": "Python AWS Developer",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "display_name": "Pune, Maharashtra"
+            },
+            "description": "Job Description Job Summary: We are seeking a skilled Senior Python Developer with extensive experience in Python development and hands-on expertise in AWS cloud services. The ideal candidate will play a crucial role in developing, maintaining, and deploying backend services and cloud infrastructure. This position is primarily focused on Python development , complemented by AWS tasks . Key Responsibilities: \u25cf Python Development : Design, develop, test, and deploy scalable and efficient backend \u2026",
+            "company": {
+                "display_name": "Prometteur Solutions Pvt. Ltd.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            }
+        },
+        {
+            "created": "2025-01-18T00:57:41Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 13.03485,
+            "redirect_url": "https://www.adzuna.in/details/5014890363?utm_medium=api&utm_source=358f861a",
+            "id": "5014890363",
+            "longitude": 80.23635,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAxNDg5MDM2MyIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.feE_N9M7Wxzg9YCL85_n0x76fgd9lXVk2MFgSQZBQuk",
+            "title": "Technical Project Analyst",
+            "contract_type": "permanent",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "description": "Role: Technical Project Analyst Location: Chennai About YUBI Yubi, formerly known as CredAvenue, is re-defining global debt markets by freeing the flow of finance between borrowers, lenders, and investors. We are the world's possibility platform for the discovery, investment, fulfilment, and collection of any debt solution. At Yubi, opportunities are plenty and we equip you with tools to seize it. In March 2022, we became India\u2019s fastest fintech and most impactful startup to join the unicorn cl\u2026",
+            "location": {
+                "display_name": "Nandanam, Chennai",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai",
+                    "Nandanam"
+                ]
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Yubi Group"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.97349,
+            "created": "2025-02-06T05:20:07Z",
+            "id": "5039107822",
+            "longitude": 72.82458,
+            "redirect_url": "https://www.adzuna.in/details/5039107822?utm_medium=api&utm_source=358f861a",
+            "contract_type": "contract",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAzOTEwNzgyMiIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.YzNxUF6cLu-a50pkY0ZdWmAQr6iNTOCcDAHrDG0fgH0",
+            "title": "Cyber Security Specialist - Intern (Remote Internship - Cybersecurity)",
+            "contract_time": "part_time",
+            "company": {
+                "display_name": "Kreativstorm",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai",
+                    "M A Marg"
+                ],
+                "display_name": "M A Marg, Mumbai"
+            },
+            "description": "Embark on an exciting exploration into the critical field of cybersecurity with an exclusive internship opportunity offered by Kreativstorm, a dynamic and innovative management-consulting firm based in Berlin, Germany. Work remotely with our multinational team and realize your career ambitions in cybersecurity If you're passionate about cybersecurity and equipped with problem-solving skills, this internship is perfect for you. Under the guidance of seasoned professionals, you'll tackle diverse \u2026",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "title": "Digital Marketing Executive",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk4NDk4NTE2MyIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.BsL4UVZDJoRj7SU3xq-w-FA2KrSIf670c2zU-fLeNkU",
+            "location": {
+                "display_name": "Hyderabad, Telangana",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad"
+                ]
+            },
+            "description": "Position: Digital Marketing Executive Location: Hyderabad Job Summary: We are seeking a highly motivated and skilled Digital Marketing Executive to join our team. The ideal candidate will have a strong passion for digital marketing and a proven track record of success in implementing and managing digital marketing campaigns. As a Digital Marketing Executive, you will be responsible for developing and executing digital marketing strategies to drive brand awareness, lead generation, and customer \u2026",
+            "company": {
+                "display_name": "People's Growth HR Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "PR, Advertising & Marketing Jobs",
+                "tag": "pr-advertising-marketing-jobs"
+            },
+            "salary_is_predicted": "0",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.40275,
+            "created": "2024-12-21T05:05:29Z",
+            "id": "4984985163",
+            "longitude": 78.50806,
+            "redirect_url": "https://www.adzuna.in/details/4984985163?utm_medium=api&utm_source=358f861a"
+        },
+        {
+            "latitude": 19.00821,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-02-06T05:29:10Z",
+            "longitude": 72.84415,
+            "id": "5039128093",
+            "redirect_url": "https://www.adzuna.in/details/5039128093?utm_medium=api&utm_source=358f861a",
+            "title": "International Business Development Executive",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAzOTEyODA5MyIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.e3TLhVyisTZRSgLrlSM18hx_P2G_SGVYNEdsrMAf03A",
+            "contract_time": "full_time",
+            "description": "Job Title: International Business Development Executive Job Location: Maharashtra Job Location Type: On-site Job Contract Type: Full-time Job Seniority Level: Executive Skills: International Business Development, Market Research, Target Orientation, Sales Management, Communication, Presentation, Company Overview VINAYAK INGREDIENTS (INDIA) PVT. LTD. was established in 1977 as one of the first Menthol producers in India. Over the years, we have expanded our offerings to include food colouring, f\u2026",
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Mumbai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Mumbai, Maharashtra"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lifelancer"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "sales-jobs",
+                "label": "Sales Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            }
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/5035768587?utm_medium=api&utm_source=358f861a",
+            "id": "5035768587",
+            "longitude": 88.34373,
+            "created": "2025-02-04T05:27:33Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 22.57285,
+            "category": {
+                "tag": "scientific-qa-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Scientific & QA Jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Kolkata, West Bengal"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lifelancer"
+            },
+            "description": "Job Title: Sericulturist Job Location: Kolkata, West Bengal, India Job Location Type: On-site Job Contract Type: Full-time Job Seniority Level: Entry level Summary A Sericulturist is a specialist who is responsible for plant cultivation for silkworm rearing. They examine the silkworm lifecycle from different phases, that is, from larvae to becoming cocoons. The whole process leads to the production of silk fibres. The main plant that is used for cultivation is mulberry trees. Sericulturists loo\u2026",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDM1NzY4NTg3In0.m50tNggk6GZpkNmJ_OdKeJPfEMYM5WkJwBGsgTfeWPw",
+            "title": "Sericulturist",
+            "contract_time": "full_time"
+        },
+        {
+            "created": "2025-01-30T14:51:35Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 28.62523,
+            "redirect_url": "https://www.adzuna.in/details/5029504060?utm_medium=api&utm_source=358f861a",
+            "id": "5029504060",
+            "longitude": 77.224601,
+            "title": "IB PYP Coordinator",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAyOTUwNDA2MCIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.toQw62EG2AyS3oG-4UkizxiwnVC7X2Sc41r9FGaLCjU",
+            "category": {
+                "tag": "teaching-jobs",
+                "label": "Teaching Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "description": "An exciting opportunity to work within a vibrant and dynamic International School in Tashkent, Uzbekistan, which boasts both the International Baccalaureate and local educational systems. About Oxbridge International School We have 200 employees so far working with us and 50 of them are expats . There's a firm dedication to continually train all staff members and offer leadership development opportunities across all levels. You can discover videos of the school on YouTube to gain insight into i\u2026",
+            "location": {
+                "display_name": "Delhi, India",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Delhi"
+                ]
+            },
+            "company": {
+                "display_name": "Oxbridge International School",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "created": "2025-01-28T05:43:00Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5026159974?utm_medium=api&utm_source=358f861a",
+            "id": "5026159974",
+            "title": "Senior Quality Assurance Manager - Revenue Cycle Management - Work From",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAyNjE1OTk3NCIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.FwPjFAxIRaeX2VLgy_qipLqNPt4PrjMb3j9Oof3SuuY",
+            "salary_is_predicted": "0",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "description": "Job Title: Senior Quality Assurance Manager - Revenue Cycle Management (RCM) - Work From Job Location: Bengaluru, Karnataka, India Job Location Type: Remote Job Contract Type: Full-time Job Seniority Level: Mid-Senior level ClinicMind is a leading provider of comprehensive healthcare practice management software and service platform for a full patient care cycle. We are seeking an experienced and analytical Senior Quality Assurance Manager to lead our Quality Assurance (QA) teams in monitoring,\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Lifelancer"
+            }
+        },
+        {
+            "salary_max": 40000,
+            "id": "5020125726",
+            "salary_min": 30000,
+            "description": "About School Our client is a well-established school located in Etah,UP. . The School has a fantastic opportunity for an enthusiastic, Motivated and engaging teacher to join us. You will be joining an incredibly dedicated, caring and collaborative team. We are looking for someone who: Has bachelor's degree with Education (B.ed) and Bachelors /masters in mathamatics. Has Minimum experience of 2 to 5 years. Are located in City Etah. Has high level of success in teaching across school children. Ha\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Etah",
+                    "Aliganj"
+                ],
+                "display_name": "Aliganj, Etah"
+            },
+            "created": "2025-01-23T00:59:01Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 27.5652,
+            "redirect_url": "https://www.adzuna.in/details/5020125726?utm_medium=api&utm_source=358f861a",
+            "longitude": 78.66535,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDIwMTI1NzI2In0.aXdjgHqnW24wt-95aKNqdJ3M-bBTUiOg3PHjMcLYc8s",
+            "title": "Urgent Requirment for pgt maths Teacher",
+            "contract_type": "permanent",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Teaching Jobs",
+                "tag": "teaching-jobs"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "EducoHire"
+            }
+        },
+        {
+            "contract_time": "full_time",
+            "title": "Associate Member of Technical Staff - QA Automation",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDE4MjgzMjk2In0.v2iTxWYyc_YI1pq5fKKIh4stM5afp1b8CdOHWVmGDaU",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Docyt , pronounced \"docket\" (like \"rocket\") is an early-stage, fast-growing FinTech company headquartered in Silicon Valley, California. Docyt is passionately focused on giving small and medium-sized businesses control of their own financial data. While great strides have been made in sending and receiving payments, businesses still struggle to aggregate all their financial data, understand it, and use it to make well-informed decisions in a timely fashion. Docyt brings order to data chaos. Doc\u2026",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India"
+                ],
+                "display_name": "India"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Docyt"
+            },
+            "created": "2025-01-21T14:41:47Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5018283296?utm_medium=api&utm_source=358f861a",
+            "id": "5018283296"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDkwNjczNzc1NCIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.-EhCmfPyP7QzuUsC9czlYayDUMQv0cV-ttzbfjDMxAw",
+            "title": "JDE Developer Analyst - Full Time",
+            "contract_time": "full_time",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "IT Jobs",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Kyasaram, Hyderabad",
+                "area": [
+                    "India",
+                    "Telangana",
+                    "Hyderabad",
+                    "Kyasaram"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Centroid Systems, Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Description: Develop, customize and maintain applications by analyzing requirements and designing solutions, using the appropriate development tools for Oracle's JD Edwards management system, in order to meet the needs of each client. Employment Type: Full Time Experience : 5-7 years \u2022 Participation as a developer in implementations and migrations of Oracle's JD Edwards ERP software. \u2022 Technical analysis of functional requirements that provide technical solutions, times and implications. \u2022 \u2026",
+            "created": "2024-10-19T00:13:16Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 17.38256,
+            "redirect_url": "https://www.adzuna.in/details/4906737754?utm_medium=api&utm_source=358f861a",
+            "id": "4906737754",
+            "longitude": 78.51234
+        },
+        {
+            "longitude": 77.3225,
+            "id": "5013104357",
+            "redirect_url": "https://www.adzuna.in/details/5013104357?utm_medium=api&utm_source=358f861a",
+            "latitude": 28.56579,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-01-16T18:51:56Z",
+            "location": {
+                "area": [
+                    "India",
+                    "Uttar Pradesh",
+                    "Ghaziabad",
+                    "Noida"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Noida, Ghaziabad"
+            },
+            "company": {
+                "display_name": "ScaleupAlly",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Develop and execute a technical content strategy to enhance brand presence and generate inbound leads. Create engaging content for blogs, social media, websites, e-books, white papers, and email marketing campaigns. Organize and manage webinars, podcasts, or speaking engagements for personal and brand promotion. Identify and establish partnerships for co-marketing activities. Evaluate new platforms and technologies for potential content opportunities. Collaborate with sales and project teams to\u2026",
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDEzMTA0MzU3In0.USJTaBUAaspwbcz6knmvzcpik7F1t7kOUZUBL_4C5ok",
+            "title": "Technical Content Writer"
+        },
+        {
+            "created": "2025-01-20T18:11:53Z",
+            "latitude": 12.95703,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5017383626?utm_medium=api&utm_source=358f861a",
+            "longitude": 77.59837,
+            "id": "5017383626",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDE3MzgzNjI2In0.Z_6IfdnKDnzG8ewyECmy6DvN5ZG9n7FUZ29rRWnYXqY",
+            "title": "Communications Specialist & Press Officer",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "pr-advertising-marketing-jobs",
+                "label": "PR, Advertising & Marketing Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "display_name": "H&M",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "display_name": "Bangalore, Karnataka"
+            },
+            "description": "Job Description As the Communications Specialist & Press Officer, you contribute to added customer value, a strong brand and increased sales by ensuring high quality Media Relations and PR & Communications activities. You work towards aligned and cross-functional goals, driving omni sales performance and customer centricity in all parts of your work. You plan, execute, and follow up your Sales Market PR and communications activities in accordance with H&M Brand guidelines and policies. You act \u2026"
+        },
+        {
+            "location": {
+                "display_name": "Sanwer, Indore",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Madhya Pradesh",
+                    "Indore",
+                    "Sanwer"
+                ]
+            },
+            "description": "Job Summary: Dollop Infotech is seeking a passionate and experienced MERN Stack Trainer to join our team in Indore. The ideal candidate will have expertise in MongoDB, Express.js, React.js, and Node.js and a strong ability to deliver effective training sessions to aspiring developers. Responsibilities : Conduct training sessions on MERN Stack technologies, including MongoDB, Express.js, React.js, and Node.js. Develop and deliver high-quality course materials, assignments, and projects. Provide \u2026",
+            "salary_min": 300000,
+            "salary_max": 480000,
+            "id": "5039108268",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDM5MTA4MjY4In0.K-CWHQhebDplFTPUot5kXWKDqsvFUFLfwZndBGdsKJE",
+            "title": "Mern Stack Trainer",
+            "contract_type": "permanent",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Dollop Infotech Pvt Ltd"
+            },
+            "created": "2025-02-06T05:20:22Z",
+            "latitude": 22.66215,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5039108268?utm_medium=api&utm_source=358f861a",
+            "longitude": 75.9035
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiIzOTQwMDQxNDcwIn0.CMUIdcaYacONuLQv481UgqXAKIRAtrDCmSg1Zg517jk",
+            "title": "Oracle Utilities Consultant - C2H - 100 Remote (Onshore to Canada)",
+            "contract_time": "full_time",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "description": "Title : Oracle Utilities Consultant Type : Contract to Hire Location : 100%Remote (Onshore to Canada) Salary: INR : Open Requirements Roles and Responsibilities: Technical/AMS/Oracle Utilities Consultant \u2022 Managing a support ticket system \u2022 Providing support to the business users including incident and problem management. \u2022 Evaluating, testing, and approving monthly patches and quarterly releases, and communicating changes to all impacted stakeholders. \u2022 Maintaining and implementing configurati\u2026",
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "company": {
+                "display_name": "Two95 International Inc.",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "created": "2023-02-24T00:46:01Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/3940041470?utm_medium=api&utm_source=358f861a",
+            "id": "3940041470"
+        },
+        {
+            "redirect_url": "https://www.adzuna.in/details/4732696912?utm_medium=api&utm_source=358f861a",
+            "id": "4732696912",
+            "longitude": 73.88075,
+            "created": "2024-06-12T17:19:59Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.51875,
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs"
+            },
+            "salary_is_predicted": "0",
+            "company": {
+                "display_name": "Mindpool Technologies",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune",
+                    "Yerwada"
+                ],
+                "display_name": "Yerwada, Pune"
+            },
+            "description": "Mindpool Technologies is hiring for Accounting Manager, Pune. The Accounting Manager must be attuned to diverse and complex operations in order to add value to senior management and provide guidance throughout the organization. This is a hands-on position which interfaces with the most senior levels of management, as well as assists with the preparation, review and timely completion of company's annual financial close process. The Accounting Manager must be detailed, action, solution and result\u2026",
+            "title": "Accounting Manager",
+            "contract_time": "full_time",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDczMjY5NjkxMiIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.Ay3AWJIN5L8coie4-0BDq6bNhRNTNLALNH1DznlAQZ4",
+            "contract_type": "permanent"
+        },
+        {
+            "created": "2024-05-10T07:38:40Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 23.73248,
+            "redirect_url": "https://www.adzuna.in/details/4686703501?utm_medium=api&utm_source=358f861a",
+            "id": "4686703501",
+            "longitude": 86.669,
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI0Njg2NzAzNTAxIn0.FfzP57UmM459ZTSqJGGGNOfmQaLHTZmh1HNBv6la59o",
+            "title": "Housekeeping Supervisor",
+            "category": {
+                "label": "Hospitality & Catering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "hospitality-catering-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "Dhanbad, Jharkhand",
+                "area": [
+                    "India",
+                    "Jharkhand",
+                    "Dhanbad"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "We are looking for a professional Housekeeper able of attending to our facilities with integrity and attention to detail. The goal is to create a clean and orderly environment for our guests that will become a critical factor in maintaining and strengthening our reputation. Responsibilities Perform a variety of cleaning activities such as sweeping, mopping, dusting and polishing Ensure all rooms are cared for and inspected according to standards Protect equipment and make sure there are no inad\u2026"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "Engineering Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "engineering-jobs"
+            },
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "display_name": "Ebizon",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Summary We are looking for a skilled Mechanical / Civil engineer to contribute to the design of steel structures. The successful candidate will play a pivotal role in designing and analyzing structures. Location: Delhi / NCR M.Tech/B.Tech/B.E in Mechanical / Civil. Desired Experience : 5-10 Years Job Location - Delhi / NCR Desired Skills a) Experienced in designing heavy steel structures. b) Experience in designing pressure vessels / marine structures will be preferred. c) The candidate sho\u2026",
+            "title": "Structual Engineer",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI0ODAxMzU5MzQ4In0.AuQBNiPoZSn4jLG44rHrCgddYDbXme6mH_Xmj0tUSlQ",
+            "redirect_url": "https://www.adzuna.in/details/4801359348?utm_medium=api&utm_source=358f861a",
+            "id": "4801359348",
+            "created": "2024-07-31T02:59:10Z",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "location": {
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "India"
+            },
+            "company": {
+                "display_name": "efficiently",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "Job Summary The Lead Data Entry Specialist is responsible for meticulously scanning websites, job boards, and various online platforms to identify potential leads. This role emphasizes the accurate research and data entry of leads into our database, ensuring the quality and reliability of information that serves as a foundation for our sales and marketing efforts. Who We Are .efficiently is a productivity partner, helping businesses become more efficient. One of our core product offerings is St\u2026",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "other-general-jobs",
+                "label": "Other/General Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAxMTc2Mzk3MyIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.RnOCF0FDhKwSitXaXbGt-NBoQNCCx3iR5a_vP3eecuc",
+            "title": "Lead Generation Specialist - Work From Home",
+            "id": "5011763973",
+            "redirect_url": "https://www.adzuna.in/details/5011763973?utm_medium=api&utm_source=358f861a",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-01-15T22:59:27Z"
+        },
+        {
+            "company": {
+                "display_name": "Cynosure Corporate Solutions",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "location": {
+                "display_name": "Gopalapuram, Chennai",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai",
+                    "Gopalapuram"
+                ]
+            },
+            "description": "Manage day-to-day accounting operations, including processing invoices, payments, and receipts. Reconcile bank statements and ensure accuracy of financial records. Maintain accurate accounts payable and accounts receivable records. Prepare monthly, quarterly, and annual financial reports as required. Assistance with the preparation of budgets and forecasts. Ensure compliance with all relevant accounting standards and legal requirements. Assist in the preparation for audits and liaise with exter\u2026",
+            "category": {
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs",
+                "tag": "accounting-finance-jobs"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "permanent",
+            "title": "Accounts Executive",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDIwMTI1NzgxIn0.91Hr0SMU1XxZd37rik9rCArPVGFlYt0-gBNeDiLZ9nY",
+            "id": "5020125781",
+            "longitude": 80.25575,
+            "redirect_url": "https://www.adzuna.in/details/5020125781?utm_medium=api&utm_source=358f861a",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 13.0464,
+            "created": "2025-01-23T00:59:20Z"
+        },
+        {
+            "longitude": 88.37172,
+            "redirect_url": "https://www.adzuna.in/details/5033379402?utm_medium=api&utm_source=358f861a",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 22.61685,
+            "created": "2025-02-02T01:12:33Z",
+            "company": {
+                "display_name": "2coms",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "category": {
+                "tag": "admin-jobs",
+                "label": "Admin Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "salary_is_predicted": "0",
+            "contract_type": "contract",
+            "title": "MIS Executive || KOLKATA",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAzMzM3OTQwMiIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.k40fH2nV5czCR8mCzXN5jrTf5W3SzUdh2-MANGOTKEU",
+            "id": "5033379402",
+            "salary_max": 400000,
+            "salary_min": 200000,
+            "description": "Profile  MIS Executive Location  Kolkata (Salt Lake Sector 5) Salary Range  Upto 15k in hand  pf and esi Requirements Experience : Typically, 6months plus of experience in data reporting, MIS, MIS executive Skills : Strong communication and interpersonal skills Advance excel Knowledge Ability to work independently and as part of a team Requirements Minimum Qualification: Graduate 6months plus of experience in data reporting, MIS, MIS executive. Good communication skill Good knowledge in Advance\u2026",
+            "location": {
+                "display_name": "Cossipore, Kolkata",
+                "area": [
+                    "India",
+                    "West Bengal",
+                    "Kolkata",
+                    "Cossipore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            }
+        },
+        {
+            "category": {
+                "label": "Creative & Design Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "creative-design-jobs"
+            },
+            "salary_is_predicted": "0",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "description": "About Imagine.io\u2019s mission is to make 3D simple for everyone. We believe that simplicity in 3D visualization is critical for creating engaging visual content at scale. To go beyond the traditional 2D-3D canvas and create contextual, photo-realistic, and interactive experiences with ease and simplicity will come from vision and creativity. We are working to scale our 3D technology with generative AI models and easy-to-adopt UX, so brands, retailers, and individuals are empowered to generate visu\u2026",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Imagine.io"
+            },
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDE5Nzc4NDkyIn0.KJ8ug0HO_goWDm6Mew_b3h1bxPF6FLgelxC6TwNGGoU",
+            "title": "3D Lighting Shading Artist",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/5019778492?utm_medium=api&utm_source=358f861a",
+            "id": "5019778492",
+            "created": "2025-01-22T20:46:45Z",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-01-31T05:26:28Z",
+            "latitude": 29.00535,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5030317989?utm_medium=api&utm_source=358f861a",
+            "longitude": 76.99434,
+            "id": "5030317989",
+            "title": ". Online BPO Jobs for Freshers",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAzMDMxNzk4OSIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.Y3GIBDv1IJHxjGc1CjYvIyqOzw0ujM1SRjky9A5t9l8",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "customer-services-jobs",
+                "label": "Customer Services Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "description": "Job Description: Online BPO Jobs for Freshers (Voice/Chat Process) Overview: Are you a recent graduate looking to kickstart your career in the world of Business Process Outsourcing (BPO)? We have an exciting opportunity for freshers to join our dynamic team in online BPO roles focused on voice and chat processes. As a fresher, this is your chance to gain valuable industry experience, develop communication and customer service skills, and build a successful career in the BPO sector. Roles and Re\u2026",
+            "location": {
+                "display_name": "Sonipat, Haryana",
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Haryana",
+                    "Sonipat"
+                ]
+            },
+            "company": {
+                "display_name": "Tensoten Services",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            }
+        },
+        {
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 18.51875,
+            "created": "2024-12-19T00:21:42Z",
+            "id": "4982351585",
+            "longitude": 73.88075,
+            "redirect_url": "https://www.adzuna.in/details/4982351585?utm_medium=api&utm_source=358f861a",
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI0OTgyMzUxNTg1In0.SOyXOsidRHNuHrLvT3IkeBkYvTxoo0skeLnp89lhQ5E",
+            "title": "Anti Money Laundering - Team Lead/Manager/Service delivery manager",
+            "location": {
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune",
+                    "Yerwada"
+                ],
+                "display_name": "Yerwada, Pune"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "2coms"
+            },
+            "description": "Anti Money Laundering Job Role : The role will perform quality control reviews to support AML compliance services aligned with: AML Legislation/Regulation & Guidance US AML Processes and procedures JOB SKILLS/EXPERIENCE : Experience of 4-12 years in reviewing Individual and Institutional (entity) client profiles including CDD and EDD Knowledge of Trust, Deposit, and Lending product documentation. Familiarity with formation documentation of various legal entity types (Corp, LLC, LP, etc.) as wel\u2026",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs"
+            },
+            "salary_is_predicted": "0"
+        },
+        {
+            "salary_is_predicted": "0",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "description": "We are seeking an experienced and highly skilled Principal FullStack Developer (MERN) to lead our full-stack development projects. The ideal candidate will have extensive experience with the MERN stack (MongoDB, Express.js, React, Node.js) and a strong track record of delivering high-quality web applications. You will play a critical role in developing robust and scalable solutions for our clients and mentoring junior developers. About Salt Technologies Salt Technologies is a leading Indian sof\u2026",
+            "location": {
+                "display_name": "India",
+                "area": [
+                    "India"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location"
+            },
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "Salt Technologies"
+            },
+            "title": "Principal FullStack Developer (MERN)",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDc2NTg2MDc0MCIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.S1rapoXKArcuYI7W8QE_td8NUFOYAGcNjrsxz3BNQf0",
+            "contract_time": "full_time",
+            "redirect_url": "https://www.adzuna.in/details/4765860740?utm_medium=api&utm_source=358f861a",
+            "id": "4765860740",
+            "created": "2024-07-04T13:31:30Z",
+            "__CLASS__": "Adzuna::API::Response::Job"
+        },
+        {
+            "created": "2025-01-27T18:09:58Z",
+            "latitude": 18.5062,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "redirect_url": "https://www.adzuna.in/details/5025483585?utm_medium=api&utm_source=358f861a",
+            "longitude": 73.84735,
+            "id": "5025483585",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTAyNTQ4MzU4NSIsInMiOiI0dEVScFozbjd4RzV6cUxpcW5BLW9BIn0.2CpR8-7ekDlpNO8fmhGa9a-uWqKPS-xgOmoIZLhNIa8",
+            "title": "IB Mathematics Teacher",
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "teaching-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Teaching Jobs"
+            },
+            "location": {
+                "area": [
+                    "India",
+                    "Maharashtra",
+                    "Pune"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Pune, Maharashtra"
+            },
+            "company": {
+                "display_name": "Oxbridge International School",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "description": "An exciting opportunity to work within a vibrant and dynamic International School in Tashkent, Uzbekistan, which boasts both the International Baccalaureate and local educational systems. About Oxbridge International School We have 200 employees so far working with us and 50 of them are expats . There's a firm dedication to continually train all staff members and offer leadership development opportunities across all levels. You can discover videos of the school on YouTube to gain insight into i\u2026"
+        },
+        {
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDI2MTYwMTE1In0.Odytq7gI5uxMr3Dspk6L4Uum4MKbUNpjPQz4dU2dNX4",
+            "title": "HPC Admin",
+            "category": {
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "tag": "it-jobs"
+            },
+            "salary_is_predicted": "0",
+            "salary_min": 20000,
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "5 Star Recruitment"
+            },
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Chennai, Tamil Nadu"
+            },
+            "description": "Key Responsibilities: Design, implementation & support of high-performance compute clusters Solid knowledge on HPC systems, including CPU/GPU architecture, scalable/robust storage, high-bandwidth inter-connects, and a knowledge of cloud based computing architectures Apply their attention to detail to generate HW BOMs for the HCP Clusters, provide vendor management and oversee HW release activities. Use their strong skills with the Linux OS to configure appropriate operating systems for the HPC \u2026",
+            "salary_max": 4000000,
+            "created": "2025-01-28T05:43:02Z",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "latitude": 13.06041,
+            "redirect_url": "https://www.adzuna.in/details/5026160115?utm_medium=api&utm_source=358f861a",
+            "id": "5026160115",
+            "longitude": 80.24963
+        },
+        {
+            "location": {
+                "area": [
+                    "India",
+                    "Karnataka",
+                    "Bangalore"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Bangalore, Karnataka"
+            },
+            "description": "Job Title: Trade Analyst Job Location: Bengaluru East, Bengaluru, Karnataka 562129, India Job Location Type: On-site Job Contract Type: Full-time Job Seniority Level: Mid-Senior level About Calpion is an 18-year-old Dallas-headquartered technology firm that offers customers artificial intelligence solutions by building custom deep learning and machine learning algorithms, custom enterprise application development and maintenance, RPA solutions, cloud services, Salesforce consulting, customized \u2026",
+            "company": {
+                "display_name": "Lifelancer",
+                "__CLASS__": "Adzuna::API::Response::Company"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "it-jobs",
+                "label": "IT Jobs",
+                "__CLASS__": "Adzuna::API::Response::Category"
+            },
+            "title": "Trade Analyst",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDI2MTU5ODkxIn0.KAswAt7J1R7F-pW-Byi8uPvado3OmTLudVofOuqP0C0",
+            "contract_time": "part_time",
+            "id": "5026159891",
+            "redirect_url": "https://www.adzuna.in/details/5026159891?utm_medium=api&utm_source=358f861a",
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-01-28T05:42:58Z"
+        },
+        {
+            "salary_max": 1500000,
+            "id": "5036769134",
+            "location": {
+                "area": [
+                    "India",
+                    "Tamil Nadu",
+                    "Chennai",
+                    "Tondiarpet Fort St George"
+                ],
+                "__CLASS__": "Adzuna::API::Response::Location",
+                "display_name": "Tondiarpet Fort St George, Chennai"
+            },
+            "description": "Job opportunity in one of the Big 6 firms Job Description \u2013 Assistant Manager (AM) Location: Chennai Experience: 3-4 years Qualification: Chartered Accountant (CA) Role Overview: The Assistant Manager (AM) will support internal audit and risk consulting projects across various industries. The role involves assessing operational processes, ensuring regulatory compliance, and identifying risks to enhance business efficiency. Key Responsibilities: Conduct internal audits and risk assessments for c\u2026",
+            "salary_min": 1200000,
+            "latitude": 13.09757,
+            "__CLASS__": "Adzuna::API::Response::Job",
+            "created": "2025-02-04T23:20:25Z",
+            "longitude": 80.29455,
+            "redirect_url": "https://www.adzuna.in/details/5036769134?utm_medium=api&utm_source=358f861a",
+            "contract_type": "permanent",
+            "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNHRFUnBaM243eEc1enFMaXFuQS1vQSIsImkiOiI1MDM2NzY5MTM0In0.jpbUkqwxvSfTCcBvZEjs0RulyCZAPMhkOdUhVyrrh1Q",
+            "title": "Assistant Manager",
+            "company": {
+                "__CLASS__": "Adzuna::API::Response::Company",
+                "display_name": "CA Monk"
+            },
+            "salary_is_predicted": "0",
+            "category": {
+                "tag": "accounting-finance-jobs",
+                "__CLASS__": "Adzuna::API::Response::Category",
+                "label": "Accounting & Finance Jobs"
+            }
+        }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 784381.2
+}
